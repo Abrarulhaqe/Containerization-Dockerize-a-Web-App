@@ -66,5 +66,4 @@ docker-compose down
 
 ---
 
-## 👨‍💻 Author
-Your Name
+
